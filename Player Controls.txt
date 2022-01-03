@@ -1,0 +1,7 @@
+PLAYER CONTROLS
+
+WASD - Player Movement
+IJKL - Camera Movement
+Space - Jump/Swim
+X - Dive
+U - Climb
